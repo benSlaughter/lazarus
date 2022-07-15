@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 8,
-        "description": "Lazarus will rise from the dead!",
+        "pack_format": 10,
+        "description": "Lazarus will rise from the dead!"
     }
 }
